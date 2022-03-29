@@ -1,5 +1,5 @@
 # Seja-Blive
-Design de interfaces desenvolvido para a empresa Blive, a qual vende uma plataforma preparatória para alunoso pré-vestibulandos.
+Design de interfaces desenvolvido para a empresa Blive, a qual vende uma plataforma preparatória para alunos pré-vestibulandos.
 
 Link de acesso ao projeto Figma:
 ```
