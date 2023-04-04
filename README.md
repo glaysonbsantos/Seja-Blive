@@ -6,9 +6,9 @@ Link de acesso ao projeto Figma:
 https://www.figma.com/file/7ehgvwQhthZq9kVFYIBgoT/Blive?node-id=0%3A1
 ```
 
-Link ativo da plataforma:
+Link da plataforma (lançamento ainda não realizado pela empresa):
 ```
-https://sejablive.com.br/login
+https://sejablive.com.br
 ```
 
 Preview simples:
